@@ -1,0 +1,44 @@
+body{ 
+  margin: 0;
+}
+.nav{
+  text-align: right;
+  background-color: cornflowerblue;
+}
+.nav a {
+  color: brown;
+}
+.nav button{
+  background-color: coral;
+  border-radius: 3px;
+  border: none;
+  color: white;
+}
+.nav-space{
+  padding: 10px;
+}
+.bio_data{
+  background-color: cornflowerblue;
+  color: white;
+}
+.Edu{
+  background-color: darkblue;
+  color: white;
+}
+.align-par{
+  text-align: center;
+}
+.submit{
+  background-color: cornflowerblue; 
+  border-radius: 5px;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 300px;;
+}
+.login{
+  text-align: center;
+}
+.signUp-page{
+  text-align: center;
+}
